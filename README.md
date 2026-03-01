@@ -1,1 +1,3 @@
-# PlumeNet
+# PlumeNet: A boundary-refinement infrared gas plume segmentation network applicable for heterogeneous backgrounds
+## IRGas-20K Dataset
+IRGas-20K contains 20,016 infrared images collected from both public datasets and self-collected real-world data. The public sources include [GasVid](https://www.sciencedirect.com/science/article/pii/S030626191931685X), [TIVID](https://ieeexplore.ieee.org/abstract/document/10507231), and [Gas-DB](https://www.sciencedirect.com/science/article/pii/S1077314224001802), while the self-collected subset is available at [Baidu Netdisk](). All images are resized to 320x256. Due to the challenges in capturing and annotating the dataset, the IRGas-20K dataset will be available through an application process. If you are interested, please contact us at [2024110075@mail.hfut.edu.cn](mailto:2024110075@mail.hfut.edu.cn).
